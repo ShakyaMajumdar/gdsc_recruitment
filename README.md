@@ -8,7 +8,7 @@ Bootstrap is used for styling, specifically, a Card component is used for indivi
 
 
 ## Deployment
-The app is currently deployed on a DigitalOcean Droplet, and can be accessed [here](gdsc.shakyamajumdar.me).
+The app is currently deployed on a DigitalOcean Droplet, and can be accessed [here](http://gdsc.shakyamajumdar.me).
 
 
 ## Run Locally
