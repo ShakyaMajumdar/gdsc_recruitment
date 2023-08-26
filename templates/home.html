@@ -10,7 +10,7 @@
     <div class="container mt-3">
         <ul>
         {% for item in conferences %}
-            <div class="card w-75 {{'float-right' if loop.index is divisibleby(2) else 'float-left'}} ml-10 mb-4 shadow rounded">
+            <div class="card w-75 {{'float-right' if loop.index is divisibleby(2) else 'float-left'}} mb-4 shadow rounded">
                 <img src="{{item.banner_image}}" class="card-img-left">
                 <div class="card-body">
                     <h4 class="card-title">{{item.title}}</h4>
